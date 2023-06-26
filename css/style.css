@@ -34,13 +34,17 @@ ul{padding-left: 20px;
   margin-right: 40%;
   margin-bottom: 20px;}
 
-table{margin-right: 40%;}
+table{margin-right: 40%;
+    border-collapse: collapse;}
 
 .tablehead{color: white;
             background-color: #00b0ffb5;
-            font-size: 15px;}
+            font-size: 15px;
+            text-align: left;
+           }
 
-.tabled{background-color:lightblue;}
+.tabled{background-color:lightblue;
+        width: 15%;}
 
 
 .loremfinal{margin-top: 20px;
