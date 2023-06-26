@@ -1,12 +1,14 @@
 *{margin: 0;
   padding: 0;
-    box-sizing: border-box;}
+  box-sizing: border-box;
+  font-weight: 500;}
 
 .sheader{display: inline-block;
         width: 100%;
         background-color: #00b0ffb5;
         background-image: url("/img/pattern.png");
-        background-position: center; }
+        background-size: 15%;
+        background-repeat: repeat;}
 
    
 .logo{width: 150px;
