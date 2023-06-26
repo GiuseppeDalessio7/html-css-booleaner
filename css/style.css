@@ -12,7 +12,8 @@
 .logo{width: 150px;
       margin-top: 20px;}
 
-section>h1 {margin-top: 15px;}       
+section>h1 {margin-top: 15px;
+            margin-right: 40%;}       
 
 span{color: gray;}
 
@@ -32,3 +33,12 @@ span{color: gray;}
 ul{padding-left: 20px;
   margin-right: 40%;
   margin-bottom: 20px;}
+
+.loremfinal{margin-top: 20px;
+            margin-right: 40%;
+            margin-bottom: 20px;}
+
+#ultimolorem{color: black;}
+
+.interesting{margin-bottom: 10px;
+            color: grey;}
