@@ -2,20 +2,33 @@
   padding: 0;
     box-sizing: border-box;}
 
-.backgroundh{display: inline-block;
-            background-size: cover;
-            width: 10%;
-           }  
-
 .sheader{display: inline-block;
         width: 100%;
-        background-color: #00b0ffb5;}
+        background-color: #00b0ffb5;
+        background-image: url("/img/pattern.png");
+        background-position: center; }
+
    
 .logo{width: 150px;
-        margin-top: 20px;
-        float: left;}
+      margin-top: 20px;}
+
+section>h1 {margin-top: 15px;}       
 
 span{color: gray;}
-#Tb{color:#00b0ffb5;;}
+
+#Tb{color:#00b0ffb5;}
+
 .dataarticolo {font-size: small;
-                color: grey;}
+                color: grey;
+                margin-bottom: 15px;}
+
+.mainsection > p{font-size: smaller;}  
+
+.sectioncenter{margin-right: 40%;
+                margin-top: 20px;
+                margin-bottom: 20px;}
+
+#evidenziato{background-color: yellow;}
+ul{padding-left: 20px;
+  margin-right: 40%;
+  margin-bottom: 20px;}
