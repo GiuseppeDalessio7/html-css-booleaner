@@ -13,7 +13,7 @@
       margin-top: 20px;}
 
 section>h1 {margin-top: 15px;
-            margin-right: 40%;}       
+            margin-right: 70%;}       
 
 span{color: gray;}
 
@@ -33,6 +33,15 @@ span{color: gray;}
 ul{padding-left: 20px;
   margin-right: 40%;
   margin-bottom: 20px;}
+
+table{margin-right: 40%;}
+
+.tablehead{color: white;
+            background-color: #00b0ffb5;
+            font-size: 15px;}
+
+.tabled{background-color:lightblue;}
+
 
 .loremfinal{margin-top: 20px;
             margin-right: 40%;
